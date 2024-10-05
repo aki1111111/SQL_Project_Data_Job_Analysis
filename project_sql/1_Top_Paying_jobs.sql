@@ -17,6 +17,5 @@ ON
     job_work_from_home = true
  Order by 
     salary_year_avg DESC
- Limit 10;
-
-
+ 
+Limit 10;
